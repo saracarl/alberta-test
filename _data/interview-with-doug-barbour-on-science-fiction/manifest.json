@@ -249,7 +249,7 @@
                      "body":{
                         "id":"https://aviary-p-ualberta.s3.wasabisys.com/collection_resource_files/resource_files/000/134/074/original/88-47-377-a.wav",
                         "type":"Audio",
-                        "format":"audio/x-wav",
+                        "format":"audio/wav",
                         "duration":3621.50023,
                         "width":640,
                         "height":40
